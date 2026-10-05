@@ -64,3 +64,6 @@
 
 /* Explicit foregrounds for the light capabilities surface. */
 .capabilities{background:#eaf0ff;color:#101e48}.capabilities .eyebrow{color:#1428a0}.capabilities h2{color:#101e48}.capabilities .cap-grid>div>span{color:#35559c}.capabilities .cap-grid h3{color:#1428a0}.capabilities .cap-grid p{color:#435475}.capabilities .cap-grid>div{border-color:#aebee3}
+
+/* Contact: explicit light foregrounds on the brand-blue background. */
+.contact{background:#1428a0;color:#fff}.contact .eyebrow{color:#a8e9ff}.contact h2{color:#fff}.contact a{color:#fff;border-color:#a8e9ff}.contact a:hover{color:#a8e9ff}.contact a:focus-visible{outline-color:#a8e9ff}
