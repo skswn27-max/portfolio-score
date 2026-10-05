@@ -61,3 +61,6 @@
 .product-verification{display:grid;grid-template-columns:1fr 1.65fr;gap:28px;margin-top:24px;padding:26px;background:#e8eeff;border-left:4px solid #1428a0}.verification-heading>span{font-size:9px;color:#1428a0;font-weight:700;letter-spacing:.07em}.verification-heading h3{font-size:23px;color:#1428a0;line-height:1.5;margin-top:9px}.product-verification p{font-size:12px;color:#475b7c;line-height:1.9}.product-verification p+p{margin-top:10px}@media(max-width:640px){.product-verification{grid-template-columns:1fr;gap:16px;padding:22px 18px}.verification-heading h3{font-size:22px}.product-verification p{font-size:11px}}
 
 .product-observation{padding:28px 0}.product-observation>span{display:block;font-size:11px;color:#657aa0}.product-observation strong{display:block;font-size:clamp(28px,4vw,42px);color:#1428a0;letter-spacing:-.04em;margin:12px 0}.product-observation p{font-size:13px;line-height:1.8;color:#53627d}
+
+/* Explicit foregrounds for the light capabilities surface. */
+.capabilities{background:#eaf0ff;color:#101e48}.capabilities .eyebrow{color:#1428a0}.capabilities h2{color:#101e48}.capabilities .cap-grid>div>span{color:#35559c}.capabilities .cap-grid h3{color:#1428a0}.capabilities .cap-grid p{color:#435475}.capabilities .cap-grid>div{border-color:#aebee3}
