@@ -57,6 +57,7 @@
 .summer-visual{background:#edf3f5}
 .summer-visual figcaption span,.summer-visual figcaption>p{color:#4e6976}
 .visual-brief .image-button{border-radius:0;background:#08253a}
+.guide-scroll{overflow-x:auto;scrollbar-width:thin;scrollbar-color:#6e8593 #e7edef}
 .visual-brief img{width:100%;height:auto}
 .brief-notes{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;padding:22px 28px}
 .brief-notes b{font-size:11px;color:var(--ink)}
@@ -113,6 +114,8 @@
  .visual-brief figcaption span{font-size:9px}
  .visual-brief h3{font-size:22px}
  .visual-brief figcaption>p{font-size:11px;margin-top:8px}
+ .guide-scroll .image-button{min-width:880px}
+ .guide-scroll img{min-width:880px}
  .brief-notes{grid-template-columns:1fr;gap:13px;padding:18px 19px}
  .brief-notes>div{display:grid;grid-template-columns:35px 1fr;gap:10px;align-items:baseline}
  .brief-notes p{margin:0;font-size:11px}
