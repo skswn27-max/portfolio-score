@@ -1,4 +1,3 @@
-// Replace src with a local image/video path. For carousel, set type:"carousel" and images:[...].
 window.PORTFOLIO_MEDIA = {
   "hero-published": {
     "type": "image",
@@ -7,70 +6,6 @@ window.PORTFOLIO_MEDIA = {
     "images": [],
     "alt": "매체별로 다르게 잡은 소재",
     "status": "actual"
-  },
-  "hero-reel": {
-    "type": "video",
-    "src": null,
-    "poster": null,
-    "images": [],
-    "alt": "현장의 순간을 콘텐츠로",
-    "status": "placeholder"
-  },
-  "winter-reel": {
-    "type": "video",
-    "src": null,
-    "poster": null,
-    "images": [],
-    "alt": "Winter moments",
-    "status": "placeholder"
-  },
-  "winter-feed": {
-    "type": "image",
-    "src": null,
-    "poster": null,
-    "images": [],
-    "alt": "BaseCamp scenes",
-    "status": "placeholder"
-  },
-  "runfit-reel": {
-    "type": "video",
-    "src": null,
-    "poster": null,
-    "images": [],
-    "alt": "현장의 움직임",
-    "status": "placeholder"
-  },
-  "runfit-feed": {
-    "type": "image",
-    "src": null,
-    "poster": null,
-    "images": [],
-    "alt": "제품을 만나는 장면",
-    "status": "placeholder"
-  },
-  "runfit-story": {
-    "type": "image",
-    "src": null,
-    "poster": null,
-    "images": [],
-    "alt": "현장에서 이어지는 이야기",
-    "status": "placeholder"
-  },
-  "summer-reel": {
-    "type": "video",
-    "src": null,
-    "poster": null,
-    "images": [],
-    "alt": "쇼룸에서 만난 웰니스",
-    "status": "placeholder"
-  },
-  "summer-story": {
-    "type": "image",
-    "src": null,
-    "poster": null,
-    "images": [],
-    "alt": "현장의 한 장면",
-    "status": "placeholder"
   },
   "ningning-newsource": {
     "type": "image",
@@ -95,5 +30,59 @@ window.PORTFOLIO_MEDIA = {
     "images": [],
     "alt": "팬덤과 여름 관심사",
     "status": "actual"
+  },
+  "capture-summer-newsource-reel": {
+    "type": "image",
+    "src": "assets/summer-newsource-reel.webp",
+    "poster": null,
+    "images": [],
+    "alt": "NEW SOURCE · 인물과 행사 분위기",
+    "status": "actual",
+    "statusLabel": "실제 발행 화면 · 릴스 정지 캡처"
+  },
+  "capture-rescene-bazaar-capture": {
+    "type": "image",
+    "src": "assets/rescene-bazaar-capture.webp",
+    "poster": null,
+    "images": [],
+    "alt": "ish.guys · PR 리뷰의 7월 발행 기록",
+    "status": "actual",
+    "statusLabel": "실제 발행 화면 · 캐러셀 첫 장"
+  },
+  "capture-couple-bazaar-capture": {
+    "type": "image",
+    "src": "assets/couple-bazaar-capture.webp",
+    "poster": null,
+    "images": [],
+    "alt": "glowup · PR 리뷰의 6월 발행 기록",
+    "status": "actual",
+    "statusLabel": "실제 발행 화면 · 캐러셀 첫 장"
+  },
+  "capture-summer-fastpaper-reel": {
+    "type": "image",
+    "src": "assets/summer-fastpaper-reel.webp",
+    "poster": null,
+    "images": [],
+    "alt": "FASTPAPER · 현장에서 발견한 제품",
+    "status": "actual",
+    "statusLabel": "실제 발행 화면 · 릴스 정지 캡처"
+  },
+  "capture-maryjane-ourlog-feed": {
+    "type": "image",
+    "src": "assets/maryjane-ourlog-feed.webp",
+    "poster": null,
+    "images": [],
+    "alt": "OURLOG · 제품과 스타일링 소개",
+    "status": "actual",
+    "statusLabel": "실제 발행 화면 · 피드 캡처"
+  },
+  "capture-maryjane-celebfashion-reel": {
+    "type": "image",
+    "src": "assets/maryjane-celebfashion-reel.webp",
+    "poster": null,
+    "images": [],
+    "alt": "CELEB FASHION · 메리제인 슈즈",
+    "status": "actual",
+    "statusLabel": "실제 발행 화면 · 릴스 정지 캡처"
   }
 };

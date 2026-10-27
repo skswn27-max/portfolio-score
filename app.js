@@ -22,7 +22,7 @@ for(const stage of document.querySelectorAll('[data-media-id]')){
   if(!config.src&&!images.length)continue;
   const error=()=>{stage.replaceChildren();const message=document.createElement('p');message.className='media-error';message.textContent='미디어를 불러오지 못했습니다.';stage.append(message);};
   const status=stage.closest('.device-screen').querySelector('.asset-status');
-  const label=config.status==='actual'?(config.type==='video'?'발행 영상 · 목업 재구성':'발행 이미지 · 목업 재구성'):'구성 예시';
+  const label=config.statusLabel||(config.status==='actual'?(config.type==='video'?'발행 영상 · 목업 재구성':'발행 이미지 · 목업 재구성'):'구성 예시');
   if(status)status.textContent=label;
   const outerStatus=stage.closest('.phone-card').querySelector('.media-label');
   if(outerStatus)outerStatus.textContent=label;
