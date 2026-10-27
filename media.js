@@ -36,7 +36,7 @@ window.PORTFOLIO_MEDIA = {
     "src": "assets/summer-newsource-reel.webp",
     "poster": null,
     "images": [],
-    "alt": "NEW SOURCE · 인물과 행사 분위기",
+    "alt": "현장 인터뷰 · 인물과 행사 분위기",
     "status": "actual",
     "statusLabel": "실제 발행 화면 · 릴스 정지 캡처"
   },
@@ -63,7 +63,7 @@ window.PORTFOLIO_MEDIA = {
     "src": "assets/summer-fastpaper-reel.webp",
     "poster": null,
     "images": [],
-    "alt": "FASTPAPER · 현장에서 발견한 제품",
+    "alt": "제품 소개 · 현장에서 발견한 제품",
     "status": "actual",
     "statusLabel": "실제 발행 화면 · 릴스 정지 캡처"
   },
@@ -72,7 +72,7 @@ window.PORTFOLIO_MEDIA = {
     "src": "assets/maryjane-ourlog-feed.webp",
     "poster": null,
     "images": [],
-    "alt": "OURLOG · 제품과 스타일링 소개",
+    "alt": "피드 · 제품과 스타일링 소개",
     "status": "actual",
     "statusLabel": "실제 발행 화면 · 피드 캡처"
   },
@@ -81,7 +81,7 @@ window.PORTFOLIO_MEDIA = {
     "src": "assets/maryjane-celebfashion-reel.webp",
     "poster": null,
     "images": [],
-    "alt": "CELEB FASHION · 메리제인 슈즈",
+    "alt": "릴스 · 메리제인 슈즈",
     "status": "actual",
     "statusLabel": "실제 발행 화면 · 릴스 정지 캡처"
   }
