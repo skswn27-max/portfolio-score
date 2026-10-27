@@ -1,7 +1,11 @@
-# 이난주 — 메디큐브 웹 포트폴리오
+# 이난주 — 메디큐브 미디어 커뮤니케이션 포트폴리오
 
-공개 주소: https://skswn27-max.github.io/portfolio-score/
+https://skswn27-max.github.io/portfolio-score/
 
-HTML/CSS/JavaScript 정적 사이트. 작성 글꼴은 자체 호스팅한 NanumSquare Neo 4종이며 라이선스는 fonts/LICENSE.txt에 포함한다. 실제 작업 이미지와 매체 발행물은 기존 자료를 사용했다. 최근 프로젝트는 최신순으로 표시하고, 미확인 개인 업무와 결과는 보완 항목으로 유지한다.
+2026-10-27 Instagram PR 디자인 개편. 사내 PR HTML의 넓은 사진, 섹션 위계, 웜 뉴트럴·라임 색을 참고했다. 제공 이력서와 인계자료의 확인된 역할만 사용한다. 작성 글꼴은 NanumSquare Neo 4종이며 fonts/LICENSE.txt에 라이선스를 보존한다.
 
-2026-10-27: 메디큐브 국내 미디어 커뮤니케이션 지원용 웹 포트폴리오로 개편. 미집행 11/3 닝닝 상해 행사는 제외. 별도 yeogi-contents 경로와 사용하지 않는 기존 자산은 보존한다.
+## 미디어 교체
+
+`media.js`의 각 ID에 `src`를 넣으면 해당 휴대폰 목업에 적용된다. 이미지는 `type: "image"`, 영상은 `type: "video"`, 캐러셀은 `type: "carousel"`과 `images` 배열을 사용한다. 파일은 `assets/` 아래에 두고 상대 경로를 쓴다. `poster`는 영상 표지 이미지다. 확정 발행물이면 `status: "actual"`로 바꾼다. 현재 미제공 영상·이미지는 구성 예시로 표시돼 있고 반응 수치는 만들지 않았다.
+
+발행 전 기획·촬영·검수·매체 협의 중 실제 담당 단계와 발행일, 공개 가능한 결과를 확인해 본문을 보완한다. 레퍼런스 사내 PR의 대외비 수치·참가자 사진·인용문은 복사하지 않았다. 기존 yeogi-contents 경로를 보존한다.
