@@ -1,0 +1,292 @@
+네이버 나눔글꼴 라이선스안내 : 네이버 전반 고객센터 (https://help.naver.com/service/30016/contents/18088?lang=ko&osType=PC)
+citeturn14view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://help.naver.com/service/30016/contents/18088?osType=PC&lang=ko","lineno":null}); Total lines: 289
+L0: 빈줄[Button: 본문 바로가기]
+L1: 
+L2: NAVER
+L3: 
+L4: # 【0†고객센터】
+L5: 
+L6: 검색
+L7: 
+L8: 【1†한국어】
+L9: 
+L10: 언어선택
+L11: 
+L12:   * 【1†한국어】
+L13:   * 【1†English】
+L14: 
+L15: 【2†Image: 로그인†ssl.pstatic.net】
+L16: 
+L17: 서비스 전체보기
+L18: 
+L19: 서비스 전체보기 닫기
+L20: 
+L21: [Input: 네이버 전반의 궁금한 점을 검색해 보세요.]검색
+L22: ## [Button: 네이버 전반 고객센터]
+L23: 
+L24:   * 【3†나눔글꼴 소개 및 이용 방법】
+L25:   * 【4†나눔글꼴 에코】
+L26:   * 【5†나눔글꼴 문제 해결】
+L27:   * 【6†한글 문서서식】
+L28: 
+L29:   * 나눔글꼴 소개
+L30: 
+L31:   * 나눔글꼴 설치 방법
+L32: 
+L33:   * 네이버 서비스 페이지를 나눔글꼴로 보는 방법
+L34: 
+L35:   * 나눔옛한글 소개
+L36: 
+L37:   * 나눔바른펜 소개
+L38: 
+L39:   * 얇은 나눔바른고딕 소개
+L40: 
+L41:   * 네이버 나눔글꼴 라이선스안내
+L42: 
+L43:     * [Button: PC]
+L44: 
+L45: 글자 크기 변경
+L46: 
+L47: 네이버 나눔글꼴의 지적 재산권은 네이버와 네이버 문화재단에 있습니다.
+L48: 
+L49: ​
+L50: 
+L51: 네이버 나눔글꼴은 개인 및 기업 사용자를 포함한 모든 사용자에게 무료로 제공되며 글꼴 자체를 유료로 판매하는 것을 제외한 상업적인 사용이 가능 합니다.
+L52: 
+L53: ​
+L54: 
+L55: 네이버 나눔글꼴은 본 저작권 안내와 라이선스 전문을 포함해서 다른 소프트웨어와 번들하거나 재배포 또는 판매가 가능하고 자유롭게 수정, 재배포하실 수 있습니다.
+L56: 
+L57: ​
+L58: 네이버 나눔글꼴 라이선스 전문을 포함하기 어려울 경우, 나눔글꼴의 출처 표기를 권장합니다.
+L59: 
+L60: 예) 이 페이지에는 네이버에서 제공한 나눔글꼴이 적용되어 있습니다.
+L61: 
+L62: ​
+L63: 
+L64: 네이버 나눔글꼴을 사용한 인쇄물, 광고물(온라인 포함)의 이미지는 나눔글꼴 프로모션을 위해 활용될 수 있습니다.
+L65: 
+L66: ​
+L67: 
+L68: 이를 원치 않는 사용자는 언제든지 당사에 요청하실 수 있습니다.
+L69: 
+L70: ​
+L71: 
+L72: 정확한 사용 조건은 아래 네이버 나눔글꼴 라이선스 전문을 참고하시기 바랍니다.
+L73: 
+L74: ​
+L75: 
+L76: 네이버 마루 부리 글꼴도 나눔 글꼴과 같은 오픈라이센스 폰트로 동일한 저작권 규정을 적용받습니다.
+L77: 
+L78: ​
+L79: 
+L80: ※ 참고해 주세요!
+L81: 
+L82: - 나눔글꼴 라이선스 전문의 한글은 이용자의 이해를 돕기 위해 영문 원본을 번역해 서비스하고 있으며, 법적 효력은 영문에 한합니다.
+L83: 
+L84: ​
+L85: 
+L86: 1. 라이선스
+L87: Copyright (c) 2010, NAVER Corporation (【7†https://www.navercorp.com/†www.navercorp.com】) with Reserved Font Name Nanum, Naver Nanum, NanumGothic, Naver NanumGothic, NanumMyeongjo, Naver NanumMyeongjo, NanumBrush, Naver NanumBrush, NanumPen, Naver NanumPen, Naver NanumGothicEco, NanumGothicEco, Naver NanumMyeongjoEco, NanumMyeongjoEco, Naver NanumGothicLight, NanumGothicLight, NanumBarunGothic, Naver NanumBarunGothic, NanumSquareRound, NanumBarunPen, MaruBuri, NanumSquareNeo
+L88: 
+L89: ​
+L90: This Font Software is licensed under the SIL Open Font License, Version 1.1.
+L91: 
+L92: ​
+L93: 
+L94: This license is copied below, and is also available with a FAQ at: 【8†http://scripts.sil.org/OFL†scripts.sil.org】
+L95: 
+L96: ​
+L97: 
+L98: SIL OPEN FONT LICENSE
+L99: 
+L100: Version 1.1 - 26 February 2007
+L101: 
+L102: ​
+L103: ‘나눔, 네이버 나눔, 나눔고딕, 네이버 나눔고딕, 나눔명조, 네이버 나눔명조, 나눔손글씨, 네이버 나눔손글씨, 나눔펜, 네이버 나눔펜, 네이버 나눔고딕에코, 나눔고딕에코, 네이버 나눔명조에코, 나눔명조에코, 네이버 나눔고딕라이트, 나눔고딕라이트, 나눔바른고딕, 네이버나눔바른고딕, 나눔스퀘어라운드, 나눔바른펜, 마루 부리, 나눔스퀘어네오’ 폰트명에 대해 NAVER(【7†https://www.navercorp.com/†www.navercorp.com】【9†)†www.navercorp.com】가 저작권을 소유하고 있습니다.
+L104: 
+L105: ​
+L106: 
+L107: 본 폰트 소프트웨어는 SIL 오픈 폰트 라이선스 버전 1.1에 따라 라이선스 취득을 하였습니다.
+L108: 
+L109: ​
+L110: 
+L111: 본 라이선스는 하단에 복사되었고 【8†http://scripts.sil.org/OFL†scripts.sil.org】의 FAQ 란에서도 열람 가능합니다.
+L112: 
+L113: ​
+L114: 
+L115: SIL 오픈 폰트 라이선스
+L116: 
+L117: 버전 1.1 (2007년 2월 26일)
+L118: 
+L119: ​
+L120: 
+L121: [DEFINITIONS (정의)]
+L122: ""Font Software"" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.
+L123: 
+L124: ​
+L125: 
+L126: ""Reserved Font Name"" refers to any names specified as such after the copyright statement(s).
+L127: 
+L128: ​
+L129: 
+L130: ""Original Version"" refers to the collection of Font Software components as distributed by the Copyright Holder(s).
+L131: 
+L132: ​
+L133: ""Modified Version"" refers to any derivative made by adding to, deleting, or substituting in part or in whole any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.‘
+L134: 
+L135: ​
+L136: 
+L137: ""Author"" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.
+L138: 
+L139: ​
+L140: 
+L141: ‘폰트 소프트웨어’는 본 라이선스에 입거해 저작권자가 배포하고 명확하게 같은 표시가 된 파일들의 집합을 뜻하며, 여기에는 소스 파일, 빌드 스크립트와 문서가 이에 포함됩니다.
+L142: 
+L143: ​
+L144: ‘저작권이 있는 폰트명’은 저작권 정책에 따라서 지정된 이름을 말합니다.
+L145: 
+L146: ​
+L147: 
+L148: ‘원본’은 저작권자가 배포한 폰트 소프트웨어 구성요소를 의미합니다.
+L149: 
+L150: ​
+L151: 
+L152: ‘수정본’은 포맷의 변경이나 폰트 소프트웨어를 새로운 환경에 포팅 시켜, 원본의 일부 혹은 전체에 추가, 삭제 대체해 만든 파생 저작물을 의미합니다.
+L153: 
+L154: ​
+L155: 
+L156: ‘저자’는 폰트 소프트웨어에 기여한 디자이너, 엔지니어, 프로그래머, 기술 전문가 등을 의미합니다.
+L157: 
+L158: ​
+L159: 
+L160: 2. PREAMBLE (전문)
+L161: The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.
+L162: 
+L163: ​
+L164: The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works.
+L165: 
+L166: ​
+L167: 
+L168: The fonts and derivatives, however, cannot be released under any other type of license.
+L169: 
+L170: ​
+L171: The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.
+L172: 
+L173: ​
+L174: 
+L175: 본 폰트 라이선스를 오픈하는 것은(이하 OFL)는 전 세계 폰트 개발 프로젝트를 지원하고 학계와 언어 관련 학계의 폰트 개발을 위한 연구를 지지하기 위해서인 동시에, 폰트 제휴를 통해 폰트가 공유되고 개선될 수 있는 자유롭게 개방된 환경을 만들기 위해서입니다.
+L176: 
+L177: ​
+L178: 
+L179: OFL은 라이선스를 취득한 폰트가 그 자체로 판매되지 않는 한 자유롭게 사용, 연구, 수정, 재배포 하는 것을 허가합니다.
+L180: 
+L181: ​
+L182: 
+L183: 수정된 폰트를 포함한 폰트는 저작권 명이 사용되지 않는 한 기타 소프트웨어와 함께 묶이거나 삽입, 재배포 할 수 있습니다.
+L184: 
+L185: ​
+L186: 
+L187: 단 폰트와 수정된 폰트는 기타 다른 라이선스에 포함되어 배포될 수는 없습니다.
+L188: 
+L189: ​
+L190: 이 라이선스 하에 있기 위한 폰트에 대한 요구사항은 본 폰트나 수정본을 사용하여 제작된 어떠한 문서에도 적용되지 않습니다.
+L191: 
+L192: ​
+L193: 
+L194: 3. PERMISSION & CONDITIONS (허가 및 조건)
+L195: 
+L196: Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:
+L197: 
+L198: ​
+L199: 
+L200: 본 폰트 소프트웨어를 사용하도록 허가받은 개인/기업/단체 누구라도 다음 명시된 조건에 따라 폰트 소프트웨어의 수정 혹은 수정되지 않은 복사본을 무료로 사용, 연구, 복사, 통합, 삽입, 수정, 재배포할 수 있도록 허가합니다.
+L201: 
+L202: ​
+L203: 1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.
+L204: 
+L205: ​
+L206: 
+L207: 원본이나 수정본의 폰트 소프트웨어 혹은 개별 구성요소인 폰트 자체가 판매되어서는 안됩니다.
+L208: 
+L209: ​
+L210: 
+L211: 2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license.
+L212: 
+L213: ​
+L214: These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.
+L215: 
+L216: ​
+L217: 
+L218: 본 폰트 소프트웨어의 원본 혹은 수정본은 상기 저작권 안내와 본 라이선스에 대한 내용을 포함하는 경우에는 다른 소프트웨어와 함께 묶이거나 재배포 혹은 판매가 가능합니다.
+L219: 
+L220: ​
+L221: 
+L222: 이는 독립 텍스트 파일과 가독성이 있는 헤더 혹은 유저가 용이하게 열람 가능한 이상 텍스트 파일 혹은 이진 파일 내 기계가 읽을 수 있는 메타데이터 형태를 모두 의미합니다.
+L223: 
+L224: ​
+L225: 3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder.
+L226: 
+L227: ​
+L228: 
+L229: This restriction only applies to the primary font name as presented to the users.
+L230: 
+L231: ​
+L232: 
+L233: 본 폰트 소프트웨어의 어떠한 수정본도 동일한 저작권자가 명시적 허가서를 부여하지 않는 한 저작권이 있는 폰트명을 사용해서는 안 됩니다.
+L234: 
+L235: ​
+L236: 
+L237: 본 제한 사항은 유저들에게 제공된 기존 폰트명을 뜻합니다.
+L238: 
+L239: ​
+L240: 4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.
+L241: 
+L242: ​
+L243: 
+L244: 본 폰트 소프트웨어의 저작권자 혹은 저자의 이름은 그들의 명시적 서면 허가가 있거나 또는 그들의 공헌을 인정하기 위한 경우를 제외하고는 수정본에 대한 사용을 유도, 추천 혹은 광고하기 위한 목적으로 사용할 수 없습니다.
+L245: 
+L246: ​
+L247: 5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed any other license.
+L248: 
+L249: ​
+L250: 
+L251: The requirement for fonts to remain under this license does not apply to any document created using the Font Software.
+L252: 
+L253: ​
+L254: 
+L255: 본 폰트 소프트웨어는 전체나 부분, 혹은 수정 여부에 상관없이 본 라이선스 하에 배포가 되어야 하며 기타 다른 라이선스 하에서는 배포를 할 수 없습니다.
+L256: 
+L257: ​
+L258: 
+L259: 폰트에 대한 요구 조건은 이 라이선스 하에서만 유효하며 이 라이선스 하에 있기 위한 폰트에 대한 요구사항은 본 폰트 소프트웨어를 사용해 제작한 어떠한 문서에도 적용되지 않습니다.
+L260: 
+L261: ​
+L262: 
+L263: 4. TERMINATION (계약의 종료)
+L264: This license becomes null and void if any of the above conditions are not met.
+L265: 
+L266: ​
+L267: 
+L268: 본 라이선스는 상기 조건 중 일부라도 부합되지 않으면 무효가 될 수 있습니다.
+L269: 
+L270: ​
+L271: 
+L272: 5. DISCLAIMER (면책조항)
+L273: 
+L274: THE FONT SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT.
+L275: 
+L276: ​
+L277: IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.
+L278: 
+L279: ​
+L280: 
+L281: 본 폰트 소프트웨어는 저작권, 특허권, 상표권 및 기타 권리의 비침해성과 특정 목적에의 적합성 포함한 명시적, 묵시적인 어떠한 종류의 보증 없이 “있는 그대로” 제공됩니다.
+L282: 
+L283: ​
+L284: 어떠한 경우에도 저작권자는 본 폰트 소프트웨어의 사용 또는 이의 사용 불가, 그밖에 폰트 소프트웨어의 취급과 관련하여 발생하는 모든 계약, 불법행위 혹은 다른 일로 하여금 발생하는 일반적, 특수적, 간접적, 부차적 혹은 필연적 손해를 포함하는 소송, 손해, 혹은 기타 책임에 대한 의무를 가지지 않습니다.
+L285: 
+L286: 만족도 평가
+L287: 
+L288:   * 나눔손글씨를 더욱 예쁘게 사용하는 방법
+
