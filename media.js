@@ -45,18 +45,18 @@ window.PORTFOLIO_MEDIA = {
     "src": "assets/rescene-bazaar-capture.webp",
     "poster": null,
     "images": [],
-    "alt": "ish.guys · PR 리뷰의 7월 발행 기록",
+    "alt": "리센느 화보 · PR 리뷰의 7월 발행 기록",
     "status": "actual",
-    "statusLabel": "실제 발행 화면 · 캐러셀 첫 장"
+    "statusLabel": "실제 발행 화면 · 프로젝트 동일성 확인 필요"
   },
   "capture-couple-bazaar-capture": {
     "type": "image",
     "src": "assets/couple-bazaar-capture.webp",
     "poster": null,
     "images": [],
-    "alt": "glowup · PR 리뷰의 6월 발행 기록",
+    "alt": "민경·승용 커플 화보 · PR 리뷰의 6월 발행 기록",
     "status": "actual",
-    "statusLabel": "실제 발행 화면 · 캐러셀 첫 장"
+    "statusLabel": "실제 발행 화면 · 프로젝트 동일성 확인 필요"
   },
   "capture-summer-fastpaper-reel": {
     "type": "image",

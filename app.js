@@ -52,6 +52,44 @@ for(const stage of document.querySelectorAll('[data-media-id]')){
   }
 }
 
+// Optional project media. Empty slots stay visible until real files are supplied.
+for (const config of Object.values(window.PORTFOLIO_CONTENT || {}).flat()) {
+  if (!config.src || !['image', 'video'].includes(config.type)) continue;
+  const slot = [...document.querySelectorAll('[data-content-slot]')]
+    .find(element => element.dataset.contentSlot === config.id);
+  if (!slot) continue;
+  const frame = slot.querySelector('.slot-frame');
+  const media = document.createElement(config.type === 'video' ? 'video' : 'img');
+  media.src = config.src;
+  if (config.type === 'video') {
+    media.controls = true;
+    media.playsInline = true;
+    media.preload = 'metadata';
+    media.setAttribute('aria-label', config.alt || config.title);
+    if (config.poster) media.poster = config.poster;
+    frame.replaceChildren(media);
+  } else {
+    media.alt = config.alt || config.title;
+    media.loading = 'lazy';
+    media.decoding = 'async';
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'slot-media';
+    button.dataset.zoom = config.src;
+    button.dataset.caption = media.alt;
+    button.setAttribute('aria-label', media.alt + ' 확대');
+    button.append(media);
+    frame.replaceChildren(button);
+  }
+  media.addEventListener('error', () => {
+    const message = document.createElement('p');
+    message.className = 'media-error';
+    message.textContent = '미디어를 불러오지 못했습니다.';
+    frame.replaceChildren(message);
+  }, { once: true });
+  slot.classList.add('has-content');
+}
+
 const progress=document.querySelector('.reading-progress');let ticking=false;
 function updateProgress(){const range=document.documentElement.scrollHeight-innerHeight;progress.style.width=(range>0?Math.min(100,Math.max(0,scrollY/range*100)):0)+'%';ticking=false;}
 addEventListener('scroll',()=>{if(!ticking){ticking=true;requestAnimationFrame(updateProgress);}},{passive:true});
