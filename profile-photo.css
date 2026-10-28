@@ -1,0 +1,1 @@
+.profile-portrait{margin:36px 0 0;width:100%;max-width:400px;overflow:hidden;border-radius:4px}.profile-portrait img{display:block;width:100%;height:auto}.profile>div:first-child{min-width:0}@media(max-width:760px){.profile-portrait{max-width:360px;margin-top:28px}.career-list{margin-top:36px}}@media print{.profile-portrait{max-width:260px;break-inside:avoid}}
